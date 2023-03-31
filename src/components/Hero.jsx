@@ -9,7 +9,7 @@ const Hero = () => {
         <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
           <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
           <p className={`${styles.paragraph} ml-2`}>
-            <span className="text-white">Most</span>Profitable{" "}
+            <span className="text-white">Most</span> Profitable{" "}
             <span className="text-white">Mining</span> Platform
           </p>
         </div>
@@ -25,12 +25,12 @@ const Hero = () => {
         </div>
 
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-          Today!.
+          Today!
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Our team of experts uses a methodology to identify the credit cards
-          most likely to fit your needs. We examine annual percentage rates,
-          annual fees.
+          Join the mining revolution with BTCCC - the ultimate platform for maximizing your profits and scaling your mining operation.
+
+
         </p>
       </div>
 
